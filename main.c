@@ -8,6 +8,8 @@ typedef char str[128];
 typedef char push[3000];
 void gotoxy(int x, int y);
 
+halo
+
 int main() {
 	const int xbb=82, ybb=19, jml_M=3, xm = 20, ym = 9;
 	int x, y, now, p, key, r, rr = 1, ry, rx, rot = 0, t, a, map = 1;
